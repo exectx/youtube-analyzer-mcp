@@ -6,8 +6,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_id": "local-honc-d1-database",
-      "database_name": "honc-d1-database",
+      "database_id": "042776a2-3503-4132-a98d-fba007e799b7",
+      "database_name": "vibesummer",
       "migrations_dir": "drizzle/migrations"
     }
   ],
