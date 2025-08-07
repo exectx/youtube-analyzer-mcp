@@ -1,6 +1,6 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
-  "name": "mega-honc",
+  "name": "yt-analyzer-mcp",
   "compatibility_date": "2025-02-04",
   "compatibility_flags": ["nodejs_compat"],
   "d1_databases": [
